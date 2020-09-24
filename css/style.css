@@ -19,11 +19,6 @@
   --error: #ba2732;
 }
 
-img {
-  width: 100%;
-  height: auto;
-}
-
 .page a {
   text-decoration: none;
 }
@@ -34,7 +29,6 @@ img {
   padding: 0;
   font-family: "Cuprum", Arial, sans-serif;
   font-size: 18px;
-  line-height: 24;
   font-weight: 400;
   background-color: var(--basic-background);
 }
